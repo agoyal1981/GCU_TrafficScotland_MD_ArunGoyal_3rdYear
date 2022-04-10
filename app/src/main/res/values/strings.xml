@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GCU_TrafficScotland_MD_ArunGoyal_3rdYear</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="date_details">Date Details</string>
+    <string name="description">Description</string>
+    <string name="read_more">Read More</string>
+    <string name="location">Location</string>
+    <string name="published_date">Published Date</string>
+    <string name="title1">Title</string>
+    <string name="description1">Description</string>
+    <string name="read_more1">Read More</string>
+    <string name="location1">Location</string>
+    <string name="published_date1">Published Date</string>
+</resources>
